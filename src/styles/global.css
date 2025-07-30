@@ -1,0 +1,13 @@
+@@ .. @@
+ @tailwind components;
+ @tailwind utilities;
+ 
++:root {
++  --primary-color: #3B82F6;
++  --secondary-color: #1E40AF;
++}
++
+ @keyframes slide-up {
+   from {
+     transform: translateY(100%);
+@@ .. @@
